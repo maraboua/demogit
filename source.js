@@ -1,5 +1,5 @@
 function hello{
-        console.log("bonjour à tout le monde");
+        console.log("bonjour tout le monde v2.0");
 }
 
 hello();
